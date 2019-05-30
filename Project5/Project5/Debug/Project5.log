@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project5\project5\source.cpp(21): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\project5\project5\source.cpp(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project5.vcxproj -> C:\Users\user\source\repos\Project5\Debug\Project5.exe
